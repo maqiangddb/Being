@@ -31,3 +31,15 @@ look project : https://github.com/kpgalligan/AndroidDbDemo.git
 
 </pre>
 
+<pre>
+How to compile and debug this project with command?
+
+Compile:
+ant clean debug install
+
+Debug:
+adb logcat -s being
+
+
+</pre>
+
